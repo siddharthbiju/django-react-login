@@ -44,7 +44,7 @@ sudo pip3 install djangorestframework-jwt
 sudo pip3 install django-cors-header
 
 
-# setup virtual environment :
+# Setup virtual environment :
 
 
 pipenv install
@@ -65,7 +65,7 @@ pipenv install djangorestframework-jwt
 pipenv install django-cors-headers
 
 
-# to start server :
+# To start server :
 
 
 pipenv shell
