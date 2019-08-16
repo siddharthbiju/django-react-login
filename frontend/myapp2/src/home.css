@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap");
+
+p {
+  font-size: 70px;
+  font-family: "roboto";
+}
+body {
+  background-image: url("bag.jpg");
+}
+
+.ss {
+  text-align: center;
+
+  align-items: center;
+
+  margin-top: 3%;
+}
