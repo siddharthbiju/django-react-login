@@ -1,8 +1,9 @@
 # django react login
-Open terminal in this directory :
 
 
 # To initialize without errors, make sure all packeges are installed :
+
+Open terminal in this directory :
 
 sudo apt-get install python3.7
 
