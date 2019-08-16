@@ -72,7 +72,7 @@ pipenv install django-cors-headers
 pipenv shell
 
 
-cd medium/backend
+cd backend
 
 
 python3 manage.py runserver
