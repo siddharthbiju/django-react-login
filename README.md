@@ -76,6 +76,14 @@ cd medium/backend
 
 python3 manage.py runserver
 
+# To set up npm
+
+cd frotend/myapp2
+
+npm i
+
+npm start
+
 
 
 
